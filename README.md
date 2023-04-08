@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Fedege98/Fedege98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+🌐 I'm an **Data Engineer** and **AI Enthusiast** with a passion for extracting value from data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I develop solutions for extracting data from various sources and transforming it into the required format.
+
+🤖 Creating **Slack bots** for some clients to automate messaging processes.
+
+🔧 i build **data pipelines** and **data architectures** to automate the data flow process.
+
+## Skills 💼
+
+- Linux 💻
+- Selenium WebDriver 🕷️
+- Web Scraping 🌐
+- Slack Bot development 🤖
+- Docker 🐳
+- Python 🐍
+- Microsoft Azure ☁️
+- Data Warehouse Architecture 🏗️
+- Back-End Web Development 🌐
