@@ -2,11 +2,13 @@
 
 ## About Me 🚀
 
-🌐 I'm an **Data Engineer** and **AI Enthusiast** with a passion for extracting value from data.
+🌐 I'm an **Data Engineer** with a passion for extracting value from data.
 
 💻 I develop solutions for extracting data from various sources and transforming it into the required format.
 
-🤖 Creating **Slack bots** for some clients to automate messaging processes.
+🧠 I use AI to help businesses to ectract important results from clients behaviors
+
+🤖 Creating **Slack bots** for businesses to automate messaging processes.
 
 🔧 i build **data pipelines** and **data architectures** to automate the data flow process.
 
@@ -21,3 +23,4 @@
 - Microsoft Azure ☁️
 - Data Warehouse Architecture 🏗️
 - Back-End Web Development 🌐
+- IoT Integrations 
